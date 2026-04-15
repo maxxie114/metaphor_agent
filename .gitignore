@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+logs/responses_export*.json
+logs/responses_analysis*.csv
